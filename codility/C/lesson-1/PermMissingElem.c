@@ -6,7 +6,7 @@
 int solution(int A[], int N)
 {
     // write your code in C90
-    // Look out for overflow of 'int'
+    // This method can avoid overflow of 'int'
     int miss = 0, i;
 
     for (i = 0; i < N; i++) {
