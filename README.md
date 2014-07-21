@@ -22,8 +22,13 @@ It would be great if anyone can join me, so feel free to make your pull requests
     	b. add new website to pratice coding
     	c. use new language to solve problems
     	d. any advices 
-    7. commit your changes
+    7. get the newest version of this repository
+    	#git checkout master
+    	#git pull upstream master
+    	#git checkout your-branch
+    	#git rebase master
+    8. commit your changes
     	#git add ...
     	#git commit ...
     	#git push origin your-branch
-    8. go to the github.com to make your pull request
+    9. go to the github.com to make your pull request
