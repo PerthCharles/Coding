@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+ int a,b,c;
+ printf("/n Enter first integer");
+ scanf("%d",a);
+ printf("/n Enter second integer");
+ scanf("%d",b);
+ c=a+b;
+ printf("/n The total is:%d",c);
+} 
