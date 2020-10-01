@@ -19,7 +19,7 @@ It would be great if anyone can join me, so feel free to make your pull requests
     	#git checkout -b your-branch
     6. do whatever you want to:
     	a. fix bugs
-    	b. add new website to pratice coding
+    	b. add new website to pratice coding www.hackerrank.com- coding platform for beginners.
     	c. use new language to solve problems
     	d. any advices 
     7. get the newest version of this repository
